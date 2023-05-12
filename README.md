@@ -26,3 +26,11 @@ License:
     This project is licensed under the MIT License. See the LICENSE file for more information.
 
 Enjoy playing "Guess A Number" and have fun trying to guess the correct number within the given range 🎉 (✿◠‿◠) 🎉 
+
+# Live Demo
+You can play the game directly to your web browser here:
+https://replit.com/@linalevcheva/Guess-A-Number?v=1
+ 
+ <img width="1272" alt="Screenshot 2023-05-12 at 7 40 23" src="https://github.com/linalevcheva/GuessANumberByLina/assets/120012531/b9c14cf4-3d5c-4591-95a4-35e9ff65c8eb">
+
+    
