@@ -1,5 +1,5 @@
 # GuessANumberByLina 
-![wizard](https://github.com/linalevcheva/GuessANumberByLina/assets/120012531/bcb22141-385a-41c4-8e67-b3e3fab01dd2) 
+![FKF3M2GK1NVASKL](https://github.com/linalevcheva/GuessANumberByLina/assets/120012531/1b37ff33-34c3-4a90-b323-a5bd2629f0bb)
 
 Guess A Number is a console game where the player tries to guess a randomly generated number within a specified range.
 
