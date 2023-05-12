@@ -15,6 +15,10 @@ Game Level:
 
     Guess a number between 1 and 100.
 
+<img width="495" alt="Screenshot 2023-05-12 at 7 52 40" src="https://github.com/linalevcheva/GuessANumberByLina/assets/120012531/4640ccf4-e189-4a20-9b4e-6aa728a2c0d9">
+
+
+
 Development:
 
     The game is implemented in Python and utilizes the random module for generating random numbers.
