@@ -1,5 +1,4 @@
-# GuessANumberByLina 
-![FKF3M2GK1NVASKL](https://github.com/linalevcheva/GuessANumberByLina/assets/120012531/1b37ff33-34c3-4a90-b323-a5bd2629f0bb)
+# Guess A Number
 
 Guess A Number is a console game where the player tries to guess a randomly generated number within a specified range.
 
@@ -20,21 +19,21 @@ Game Level:
 
 
 Development:
-
-    The game is implemented in Python and utilizes the random module for generating random numbers.
+The game is implemented in Python and utilizes the random module for generating random numbers.
     
 To run the game locally, make sure you have Python installed on your system.
 
 License:
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
-    This project is licensed under the MIT License. See the LICENSE file for more information.
-
-Enjoy playing "Guess A Number" and have fun trying to guess the correct number within the given range 🎉 (✿◠‿◠) 🎉 
+Enjoy playing "Guess A Number" and have fun trying to guess the correct number within the given range    🎉 (✿◠‿◠) 🎉 
 
 # Live Demo
 You can play the game directly to your web browser here:
 https://replit.com/@linalevcheva/Guess-A-Number?v=1
  
- <img width="1272" alt="Screenshot 2023-05-12 at 7 40 23" src="https://github.com/linalevcheva/GuessANumberByLina/assets/120012531/b9c14cf4-3d5c-4591-95a4-35e9ff65c8eb">
+ 
+<img width="805" alt="Screenshot 2023-05-13 at 8 53 14" src="https://github.com/linalevcheva/GuessANumberByLina/assets/120012531/cc155465-3060-494e-b292-a95e4ae2a812">
 
-    
+
+  
