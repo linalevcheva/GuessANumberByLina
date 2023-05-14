@@ -4,7 +4,7 @@ def guess_number():
     number_to_guess = random.randint(1, 100)
     attempts = 0
 
-    print("Welcome to Guess A Number!")
+    print("Welcome to Guess A Number by Lina!")
     print("I have chosen a random number between 1 and 100.")
     print("Can you guess the number?")
 
